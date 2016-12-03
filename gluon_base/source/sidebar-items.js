@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Lines","Type which provides a bidirectional mapping between byte offsets and line and column locations for some source file"],["Source","Type which provides a bidirectional mapping between byte offsets and line and column locations"]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"macro":[["collect","This macro can be used to easily construct arbitrary collections, including `Vec`, `String`, and `HashMap`.  It also endeavours to construct the collection with a single allocation, where possible."]]});

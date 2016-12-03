@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Kind","Kind representation"]],"fn":[["walk_kind",""]],"struct":[["ArcKind","Reference counted kind type."]],"trait":[["KindEnv","Trait for values which contains kinded values which can be refered by name"]]});
